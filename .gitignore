@@ -1,0 +1,14 @@
+# Python virtual environment files
+.env/
+.ipynb_checkpoints/
+
+# RStudio project files
+.Rproj.user/
+*.Rproj
+.Rhistory
+
+# LaTeX files
+docs/
+
+# Raw data files
+data/raw/
